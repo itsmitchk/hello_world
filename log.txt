@@ -1,0 +1,35 @@
+commit f6e696a09d0dcc080a961008c5ff817b0a0314b5
+Author: mattcarley724 <36057453+mattcarley724@users.noreply.github.com>
+Date:   Thu Apr 12 16:35:23 2018 -0400
+
+    Update README.md
+
+commit e19569a4584e65732582c0843f614ba4de21a43b
+Author: itsmitchk <mitchell_kenna@my.uri.edu>
+Date:   Thu Apr 12 16:27:37 2018 -0400
+
+    Fixed README
+
+commit deffa84b11b31847cae4ab42fbe30288586ef503
+Author: itsmitchk <mitchell_kenna@my.uri.edu>
+Date:   Thu Apr 12 16:23:15 2018 -0400
+
+    Fixed Hello World- added main
+
+commit 4d22a732f67bbb9288e5d750b15b7b7a45e07b39
+Author: itsmitchk <mitchell_kenna@my.uri.edu>
+Date:   Thu Apr 12 16:21:13 2018 -0400
+
+    Hello World code added
+
+commit 98d3617233d2d0b39e9defd17e7d0c25bf7ae419
+Author: itsmitchk <mitchell_kenna@my.uri.edu>
+Date:   Thu Apr 12 15:59:46 2018 -0400
+
+    Created H1 and H2 on README
+
+commit 99d865dcc1ef8489fee8652535907662505014cb
+Author: itsmitchk <mitchell_kenna@my.uri.edu>
+Date:   Thu Apr 12 15:46:37 2018 -0400
+
+    Initial commit

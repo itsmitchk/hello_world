@@ -1,5 +1,5 @@
 # hello_world
-# Mitchell Kenna
+# Mitchell Kenna & Matthew Carley
 # April 12th, 2012
 # Lab Section 1
 
